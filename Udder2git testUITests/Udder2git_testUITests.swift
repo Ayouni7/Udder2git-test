@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import SwiftUI
 
 final class Udder2git_testUITests: XCTestCase {
 

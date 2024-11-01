@@ -6,6 +6,8 @@
 //
 
 import Testing
+import Foundation
+
 @testable import Udder2git_test
 
 struct Udder2git_testTests {

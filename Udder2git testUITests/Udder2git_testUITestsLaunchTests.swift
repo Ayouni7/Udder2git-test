@@ -6,6 +6,7 @@
 //
 
 import XCTest
+import Charts
 
 final class Udder2git_testUITestsLaunchTests: XCTestCase {
 
