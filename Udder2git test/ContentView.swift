@@ -24,6 +24,7 @@ struct ContentView: View {
             }
         }
         .padding()
+        #colorLiteral(red: 0, green: 0.46, blue: 0.89, alpha: 1)
     }
 }
 
